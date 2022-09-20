@@ -1,4 +1,4 @@
-#include "C:\Users\Labadmin\Desktop\delete-self-poc-main\main.h"
+#include "main.h"
 #include <iostream>
 #include <memory>
 static
